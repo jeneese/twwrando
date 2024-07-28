@@ -351,7 +351,7 @@ Windfall Island - Transparent Chest:
     - sea/Room11.arc/Layer1/Chest000
     - sea/Room11.arc/Layer3/Chest000
     - sea/Room11.arc/Layer5/Chest000
-Windfall Island - Tott - Teach Rhythm:
+Windfall Island - Justin - Teach Rhythm:
   Need: Wind Waker
   Original item: Song of Passing
   Types: Free Gift
